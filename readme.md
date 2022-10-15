@@ -8,7 +8,7 @@ After you clone the repo install npm
 ```sh
 npm install
 ```
-Replace you set and relation 
+Replace your set and relation 
 ``` js
 const set = []
 var relation= [[],[]]
